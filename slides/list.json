@@ -1,7 +1,7 @@
 [
     {
         "attr": {
-            "data-background": "/resources/bg.png",
+            "data-background": "resources/bg.png",
             "data-background-size": "60%"
         }
     },
