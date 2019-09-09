@@ -11,7 +11,7 @@
         }
     },
     {
-        "filename": "/lyrics/breng-ons-samen.md",
+        "filename": "lyrics/breng-ons-samen.md",
         "attr": {
             "data-lyric": "Breng ons samen"
         }
@@ -28,7 +28,7 @@
         }
     },
     {
-        "filename": "/lyrics/ik-kniel-neer-en-belijd.md",
+        "filename": "lyrics/ik-kniel-neer-en-belijd.md",
         "attr": {
             "data-lyric": "Ik kniel neer en belijd"
         }
@@ -39,7 +39,7 @@
         }
     },
     {
-        "filename": "/lyrics/laat-het-huis-gevuld-zijn.md",
+        "filename": "lyrics/laat-het-huis-gevuld-zijn.md",
         "attr": {
             "data-lyric": "Laat het huis gevuld zijn"
         }
@@ -50,7 +50,7 @@
         }
     },
     {
-        "filename": "/lyrics/ik-wil-jou-van-harte-dienen.md",
+        "filename": "lyrics/ik-wil-jou-van-harte-dienen.md",
         "attr": {
             "data-lyric": "Ik wil jou van harte dienen"
         }
@@ -61,14 +61,14 @@
         }
     },
     {
-        "filename": "/lyrics/geef-ons-vrede.md",
+        "filename": "lyrics/geef-ons-vrede.md",
         "attr": {
             "data-lyric": "Geef ons vrede"
         }
     },
     {
         "attr": {
-            "data-background": "/resources/bg.png",
+            "data-background": "resources/bg.png",
             "data-background-size": "60%"
         }
     }
