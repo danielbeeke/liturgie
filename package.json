@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:danielbeeke/trouwen-liturgie.git"
+    "url": "git@github.com:danielbeeke/liturgie.git"
   },
   "scripts": {
     "test": "grunt test"
