@@ -3,7 +3,7 @@ verbonden met U en elkaar.
 Wij brengen U lof, geven U alle eer:  
 eendrachtig, veelstemmig en dankbaar.  
 Jezus is Gastheer en nodigt ons uit:  
-waar Jezus woont voeltde liefde zicht thuis!
+waar Jezus woont voelt de liefde zich thuis!
 
 Jaag naar de liefde, de vrucht van de Geest  
 die alles gelooft en verdraagt.  

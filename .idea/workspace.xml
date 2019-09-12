@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81500320-21d8-4c18-997b-e8aaea0af397" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/slides/lyrics/gebed-om-zegen.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slides/lyrics/prijs-onze-heer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slides/welcome.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/source/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/source/theme.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/slides/video.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slides/list.json" beforeDir="false" afterPath="$PROJECT_DIR$/slides/list.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slides/lyrics/breng-ons-samen.md" beforeDir="false" afterPath="$PROJECT_DIR$/slides/lyrics/breng-ons-samen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slides/lyrics/ik-kniel-neer-en-belijd.md" beforeDir="false" afterPath="$PROJECT_DIR$/slides/lyrics/ik-kniel-neer-en-belijd.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slides/lyrics/ik-wil-jou-van-harte-dienen.md" beforeDir="false" afterPath="$PROJECT_DIR$/slides/lyrics/ik-wil-jou-van-harte-dienen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slides/lyrics/laat-het-huis-gevuld-zijn.md" beforeDir="false" afterPath="$PROJECT_DIR$/slides/lyrics/laat-het-huis-gevuld-zijn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slides/video.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +38,16 @@
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/slides" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/slides" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/slides" />
     </key>
   </component>
@@ -68,7 +76,12 @@
       <workItem from="1567535823754" duration="1548000" />
       <workItem from="1567581703171" duration="928000" />
       <workItem from="1567953053657" duration="6648000" />
-      <workItem from="1568040322021" duration="3086000" />
+      <workItem from="1568040322021" duration="3239000" />
+      <workItem from="1568099770706" duration="575000" />
+      <workItem from="1568114506320" duration="7000" />
+      <workItem from="1568229425879" duration="367000" />
+      <workItem from="1568273593292" duration="51000" />
+      <workItem from="1568279152123" duration="1712000" />
     </task>
     <servers />
   </component>
@@ -80,7 +93,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
