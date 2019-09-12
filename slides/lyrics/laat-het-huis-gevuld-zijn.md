@@ -1,7 +1,7 @@
 Laat het huis gevuld zijn met wierrook van aanbidding  
 Laat het huis gevuld zijn met de wolk van Mijn Geest  
 Laat het huis gevuld zijn met het brood van eeuwig leven  
-Laat het huis gevuld zijn met Mijn Geur  
+Laat het huis gevuld zijn met Mijn geur  
 
 Want ik wil komen met Mijn Geest  
 En doorwaaien heel het huis  

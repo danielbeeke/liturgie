@@ -19,6 +19,6 @@ Al mijn leeftocht met je delen,
 tot de reis ten einde is.  
 
 Dan zal het volmaakte komen,  
-als wij zingend voor hem staan.  
+als wij zingend voor Hem staan.  
 Als wij Christus' weg van liefde  
 en van lijden zijn gegaan.  
